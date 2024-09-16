@@ -1,0 +1,9 @@
+en un negocio hay una máquina expendedora que ofrece tres tipo de de productos, bebidas, snacks y dulces, pidiendo el presupuesto al usuario y dependiendo lo que se ponga la máquina te dirá las opciones a las cuales se ajusta el presupuesto dado, para comprar debe ingresar un valor para finalizar la elección del producto, dentro del valor ingresado se muestran los mismos
+
+bebidas: coca cola, sprite y fanta de uva
+snacks: lays, doritos, y papas sultas
+dulces: chupetin, huevo kinder y alfajor rasta)
+
+cada uno cuenta con un valor dependiendo lo que se elija, las bebidas cuestan $50
+los snacks $30 y los dulces $10
+escribir un programa que muestre al usuario lo que se eligió y si le corresponde o no un vuelto, en caso de no tener dinero suficiente para ningún producto crear una excepción que indique un saldo insuficiente 
